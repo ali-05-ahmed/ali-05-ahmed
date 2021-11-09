@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali ahmed
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Defi
+- 🌱 I’m currently Working on Defi
 - 💞️ I’m looking to collaborate on Defi , smart contracts and DAO
 - 📫 Reach me through my mail extricateshareware@gmail.com or instagram handle : @_ali05ahmed
 
