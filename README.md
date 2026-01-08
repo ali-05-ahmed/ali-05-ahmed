@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently Working on Defi
 - 💞️ I’m looking to collaborate on Defi , smart contracts and DAO
-- 📫 Reach me through my mail extricateshareware@gmail.com or instagram handle : @_ali05ahmed
+- 📫 Reach me through my mail extricateshareware@gmail.com 
 
 <!---
 ali-05-ahmed/ali-05-ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
