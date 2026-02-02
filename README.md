@@ -1,9 +1,15 @@
 👋 Hi, I’m Ali Ahmad
+
 🏗  Blockchain Architect & Protocol Engineer
+
 🔗 Building blockchains, DeFi infrastructure, wallets, and cross-chain systems
+
 ⚙️ Working with EVM, Solana, Cosmos, MPC wallets, Account Abstraction, zk systems
+
 🧠 Focused on scalability, parallel execution, gas abstraction, and trustless infra
+
 🤝 Open to collaboration on protocol design, DeFi, wallets, infra, and R&D
+
 📫 Reach me at extricateshareware@gmail.com
 
 <!---
